@@ -3,5 +3,6 @@
 ### Includes keyboard, MButton and custom mouse wheel scrolling.
 
 ### Smooth auto-scrolling
-https://github.com/hosseinkhojany/Improved_scroll_plus/blob/master/Screencast%202022-03-22%2016:19:27.mp4
-Screencast 2022-03-22 16:19:27.mp4
+
+https://user-images.githubusercontent.com/37432839/159480724-2a8cff48-2a48-4b36-9390-d26bbffc0e84.mp4
+
